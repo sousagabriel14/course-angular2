@@ -12,6 +12,7 @@ numeros.map(function (valor) {
 });
 //Arrow function
 numeros.map(function (valor) { return valor * 2; });
+
 var Matematica = /** @class */ (function () {
     function Matematica() {
     }
